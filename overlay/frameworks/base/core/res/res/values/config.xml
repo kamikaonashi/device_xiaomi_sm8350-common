@@ -292,4 +292,8 @@
 
     <!-- Whether devices suports in-display fingerprint when screen is off -->
     <bool name="config_supportScreenOffUdfps">true</bool>
+    
+    <!-- Control whether the pickup gesture is enabled by default. This value will be used
+          during initialization when the setting is still null. -->
+    <bool name="config_dozePickupGestureEnabled">false</bool>
 </resources>
