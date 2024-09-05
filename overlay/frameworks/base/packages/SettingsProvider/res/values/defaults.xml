@@ -20,5 +20,8 @@
 
     <!-- Whether predictive back animation is enabled by default. -->
     <bool name="def_enable_back_animation">true</bool>
+    
+    <!-- Set the automatic brightness mode on by default -->
+    <bool name="def_screen_brightness_automatic_mode">true</bool>
 
 </resources>
